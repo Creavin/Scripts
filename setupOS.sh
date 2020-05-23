@@ -10,4 +10,5 @@ yay -S spotify sncli transmission-gtk
 git config --global user.name creavin
 git config --global user.email thomas.creavin@gmail.com
 
+# yay jetbrains mono font
 
