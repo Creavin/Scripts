@@ -18,4 +18,5 @@ yay -S gvim ranger ristretto evince redshift
 yay -S spotify sncli transmission-gtk 
 yay autojump cmake otf-font-awesome texmaker
 yay ttf-jetbrains-mono
+yay texlive-full
 
