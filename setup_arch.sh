@@ -8,6 +8,7 @@ git config --global user.name creavin
 git config --global user.email thomas.creavin@gmail.com
 git config --global credential.helper "cache --timeout=86400"
 git config --global core.editor "vim"
+git config --global pull.rebase false
 
 
 echo "Installing packages"
